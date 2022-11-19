@@ -26,7 +26,7 @@ Oscar Manosalva,
 Ryan Nazario,
 Joel Rivera
 
-## Assets Used ##
+## Technologies Used ##
 
 - HTMl 
 - CSS 
